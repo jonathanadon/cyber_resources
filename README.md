@@ -14,6 +14,9 @@ Note: This is not a paid advertisement for the individuals or companies listed. 
 - [SANS Digital Forensics and Incident Response](https://www.youtube.com/c/SANSDigitalForensics)
 - [The Digital Life](https://www.youtube.com/c/TheDigitalLifeTech)
 - [thenewboston](https://www.youtube.com/user/thenewboston)
+- [LearnLinuxTV](https://www.youtube.com/c/LearnLinuxtv)
+- [LockPickingLawyer](https://www.youtube.com/c/lockpickinglawyer)
+- [John Savill's Technical Training](https://www.youtube.com/c/NTFAQGuy)
 
 ## Reddit
 - [r/homelab](https://www.reddit.com/r/homelab/)
@@ -33,6 +36,7 @@ Note: This is not a paid advertisement for the individuals or companies listed. 
 ### Pentesting/Ethical Hacking
 - [Kali Linux](https://www.kali.org/)
 - [Slingshot](https://www.sans.org/tools/slingshot/)
+- [DamnVulnerableWebApplication (DVWA)](https://github.com/digininja/DVWA)
 
 ### Firewall
 - [pfSense](https://www.pfsense.org/) or [OPNsense](https://opnsense.org/)

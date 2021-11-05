@@ -23,8 +23,8 @@ Note: This is not a paid advertisement for the individuals or companies listed. 
 - [r/blueteamsec](https://www.reddit.com/r/blueteamsec/)
 
 ## Podcasts
-- [Darknet Diaries](darknetdiaries.com)
-- [SecurityNow](twit.tv/shows/security-now)
+- [Darknet Diaries](https://darknetdiaries.com)
+- [SecurityNow](https://twit.tv/shows/security-now)
 
 ## Games
 - [Backdoors and Breaches](https://play.backdoorsandbreaches.com/)

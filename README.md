@@ -13,6 +13,7 @@ Note: This is not a paid advertisement for the individuals or companies listed. 
 - [SANS Offensive Operations](https://www.youtube.com/c/SANSOffensiveOperations)
 - [SANS Digital Forensics and Incident Response](https://www.youtube.com/c/SANSDigitalForensics)
 - [The Digital Life](https://www.youtube.com/c/TheDigitalLifeTech)
+- [Techno Tim](https://www.youtube.com/c/TechnoTimLive)
 - [thenewboston](https://www.youtube.com/user/thenewboston)
 - [LearnLinuxTV](https://www.youtube.com/c/LearnLinuxtv)
 - [LockPickingLawyer](https://www.youtube.com/c/lockpickinglawyer)

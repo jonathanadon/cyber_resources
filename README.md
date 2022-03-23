@@ -19,6 +19,9 @@ Note: This is not a paid advertisement for the individuals or companies listed. 
 - [LockPickingLawyer](https://www.youtube.com/c/lockpickinglawyer)
 - [John Savill's Technical Training](https://www.youtube.com/c/NTFAQGuy)
 
+## Programming
+- [FreeCodeCamp](https://www.freecodecamp.org/)
+
 ## Reddit
 - [r/homelab](https://www.reddit.com/r/homelab/)
 - [r/blueteamsec](https://www.reddit.com/r/blueteamsec/)

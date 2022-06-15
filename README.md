@@ -13,11 +13,26 @@ Note: This is not a paid advertisement for the individuals or companies listed. 
 - [SANS Offensive Operations](https://www.youtube.com/c/SANSOffensiveOperations)
 - [SANS Digital Forensics and Incident Response](https://www.youtube.com/c/SANSDigitalForensics)
 - [The Digital Life](https://www.youtube.com/c/TheDigitalLifeTech)
+- [Techno Tim](https://www.youtube.com/c/TechnoTimLive)
 - [thenewboston](https://www.youtube.com/user/thenewboston)
+- [LearnLinuxTV](https://www.youtube.com/c/LearnLinuxtv)
+- [LockPickingLawyer](https://www.youtube.com/c/lockpickinglawyer)
+- [John Savill's Technical Training](https://www.youtube.com/c/NTFAQGuy)
+
+## Programming
+- [FreeCodeCamp](https://www.freecodecamp.org/)
 
 ## Reddit
 - [r/homelab](https://www.reddit.com/r/homelab/)
 - [r/blueteamsec](https://www.reddit.com/r/blueteamsec/)
+
+## Podcasts
+- [Darknet Diaries](https://darknetdiaries.com)
+- [SecurityNow](https://twit.tv/shows/security-now)
+- [Daily Tech News Show](https://dailytechnewsshow.com/)
+
+## Games
+- [Backdoors and Breaches](https://play.backdoorsandbreaches.com/)
 
 ## Software
 
@@ -30,6 +45,7 @@ Note: This is not a paid advertisement for the individuals or companies listed. 
 ### Pentesting/Ethical Hacking
 - [Kali Linux](https://www.kali.org/)
 - [Slingshot](https://www.sans.org/tools/slingshot/)
+- [DamnVulnerableWebApplication (DVWA)](https://github.com/digininja/DVWA)
 
 ### Firewall
 - [pfSense](https://www.pfsense.org/) or [OPNsense](https://opnsense.org/)

@@ -46,6 +46,7 @@ Note: This is not a paid advertisement for the individuals or companies listed. 
 - [Kali Linux](https://www.kali.org/)
 - [Slingshot](https://www.sans.org/tools/slingshot/)
 - [DamnVulnerableWebApplication (DVWA)](https://github.com/digininja/DVWA)
+- [completely ridiculous API (crAPI)](https://github.com/OWASP/crAPI)
 
 ### Firewall
 - [pfSense](https://www.pfsense.org/) or [OPNsense](https://opnsense.org/)

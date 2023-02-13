@@ -30,6 +30,7 @@ Note: This is not a paid advertisement for the individuals or companies listed. 
 - [Darknet Diaries](https://darknetdiaries.com)
 - [SecurityNow](https://twit.tv/shows/security-now)
 - [Daily Tech News Show](https://dailytechnewsshow.com/)
+- [SANS Blueprint](https://www.sans.org/podcasts/blueprint/)
 
 ## Games
 - [Backdoors and Breaches](https://play.backdoorsandbreaches.com/)
